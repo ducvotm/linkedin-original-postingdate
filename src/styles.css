@@ -1,0 +1,29 @@
+body {
+  width: 300px;
+  padding: 15px;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  font-size: 18px;
+  color: #0a66c2;
+  margin-bottom: 15px;
+}
+
+#status {
+  color: #666;
+  margin-bottom: 10px;
+}
+
+.date-info {
+  padding: 10px;
+  background-color: #f3f6f8;
+  border-radius: 4px;
+  margin-top: 10px;
+  font-weight: bold;
+  color: #0a66c2;
+} 
