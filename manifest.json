@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "LinkedIn Job Original Posting Date",
+  "version": "1.0",
+  "description": "Shows the original posting date of LinkedIn job listings",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "cookies"
+  ],
+  "host_permissions": [
+    "https://*.linkedin.com/*"
+  ],
+  "action": {
+    "default_popup": "src/popup.html"
+  }
+} 
